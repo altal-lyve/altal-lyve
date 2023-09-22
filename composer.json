@@ -1,0 +1,16 @@
+{
+    "name": "lyve/altal-lyve",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Lyve\\AltalLyve\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mohammad Altal",
+            "email": "mohammad.altal@lyveglobal.com"
+        }
+    ],
+    "require": {}
+}
